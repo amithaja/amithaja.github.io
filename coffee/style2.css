@@ -1,0 +1,17 @@
+body {
+font-family:'Open Sans',sans-serif;
+}
+h1,h2,h3{
+color:brown;
+}
+ul{
+list-style-image:url("images/cup of coffee.jfif");
+}
+a:ink,a:visited{
+text-decoration:none;
+color:brown;
+font-weight:bold;
+}
+a:hover{
+color:black;
+}
